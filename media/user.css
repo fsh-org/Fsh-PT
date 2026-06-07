@@ -39,7 +39,6 @@ nav div {
   transition: var(--time-1);
 }
 nav hr {
-  color: var(--bg-1);
   width: 80%;
 }
 
